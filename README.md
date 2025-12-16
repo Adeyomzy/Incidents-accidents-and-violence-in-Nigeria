@@ -43,6 +43,7 @@ The source dataset containing:
 - Structured data in Excel format for easy import and refresh
 - Key fields likely including: Date, Region, Incident Type, Severity, Location, and other relevant metrics
 - Clean, tabular format ready for Power BI import
+- Data source : https://www.kaggle.com/datasets/jogwums/incidents-accidents-and-violence-in-nigeria
 
 ## 🎯 Key Features
 
